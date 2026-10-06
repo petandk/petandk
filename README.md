@@ -62,7 +62,7 @@
 ## GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=petandk&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=petandk&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true" alt="GitHub stats">
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=petandk&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages">
 </p>
 
