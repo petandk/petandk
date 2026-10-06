@@ -15,7 +15,7 @@
 - 📍 Based in **Barcelona**.
 - 🎓 Completed the **42 Common Core** at 42 Barcelona (2024–2026): project-based, peer-to-peer training in C and C++, from rebuilding the C standard library to a full-stack web application.
 - 💻 I've built projects in **C, C++, JavaScript and TypeScript**, using **Git** and **Docker** along the way, and I move between **Linux, macOS and Windows** depending on where I'm working.
-- 🌐 Hands-on experience in **IT and network support**: Ethernet and Wi-Fi deployment and rogue access point detection at the **Mobile World Congress 2026**.
+- 🌐 Worked as a temporary **IT technician** at the **Mobile World Congress 2026**, setting up and monitoring the Ethernet and Wi-Fi network and detecting rogue access points.
 - 🗣️ Spanish and Valencian (native), English (B2, IELTS 6.5), after two years living and working in Canada.
 
 ## Tech stack
@@ -78,7 +78,7 @@
 - 📍 Vivo en **Barcelona**.
 - 🎓 He completado el **Common Core de 42** en 42 Barcelona (2024–2026): formación basada en proyectos y aprendizaje entre iguales en C y C++, desde reimplementar la librería estándar de C hasta una aplicación web full-stack.
 - 💻 He desarrollado proyectos en **C, C++, JavaScript y TypeScript**, usando **Git** y **Docker**, y me muevo entre **Linux, macOS y Windows** según dónde esté trabajando.
-- 🌐 Experiencia práctica en **soporte IT y redes**: despliegue de red Ethernet y Wi-Fi y detección de puntos de acceso no autorizados en el **Mobile World Congress 2026**.
+- 🌐 He trabajado como **técnico IT** temporal en el **Mobile World Congress 2026**, montando y supervisando la red Ethernet y Wi-Fi y detectando puntos de acceso no autorizados.
 - 🗣️ Español y valenciano (nativo), inglés (B2, IELTS 6,5), tras dos años viviendo y trabajando en Canadá.
 
 ## Proyectos destacados
