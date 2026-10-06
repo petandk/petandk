@@ -1,8 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=190&section=header&text=Ra%C3%BAl%20Manzanas%20%F0%9F%8D%8E&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Software%20developer%20%C2%B7%2042%20Barcelona&descSize=18&descAlignY=58" alt="Raúl Manzanas">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f5132,100:2ea44f&height=190&section=header&text=Ra%C3%BAl%20%F0%9F%8D%8E&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Software%20developer%20%C2%B7%2042%20Barcelona&descSize=18&descAlignY=58" alt="Raúl">
 
 <p align="center">
   <a href="https://github.com/petandk">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=560&lines=42+Barcelona+Common+Core+graduate;Building+things+in+C%2C+C%2B%2B+and+TypeScript;From+libft+to+a+full-stack+web+app;Manzanas+%3D+Apples+%3B)" alt="Typing intro">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=560&lines=42+Barcelona+Common+Core+graduate;Building+things+in+C%2C+C%2B%2B+and+TypeScript;From+libft+to+a+full-stack+web+app" alt="Typing intro">
   </a>
 </p>
 
@@ -53,9 +53,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/petandk/petandk/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/petandk/petandk/output/github-snake.svg">
-    <img alt="Contribution snake" src="https://raw.githubusercontent.com/petandk/petandk/output/github-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/petandk/petandk/output/github-snake-dark.svg?v=1">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/petandk/petandk/output/github-snake.svg?v=1">
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/petandk/petandk/output/github-snake.svg?v=1">
   </picture>
 </p>
 
@@ -91,6 +91,6 @@
 
 </details>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" alt="">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f5132,100:2ea44f&height=100&section=footer" alt="">
 
 <p align="center"><sub>This profile README was put together with the help of <a href="https://claude.com/claude-code">Claude</a>.</sub></p>
