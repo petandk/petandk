@@ -16,7 +16,7 @@
 ## 🍎 About me
 
 - 📍 Based in **Barcelona**.
-- 🎓 Completed the <picture><source media="(prefers-color-scheme: dark)" srcset="assets/42-white.svg"><img src="assets/42-black.svg" height="14" alt="42"></picture> **Common Core** at <picture><source media="(prefers-color-scheme: dark)" srcset="assets/42-white.svg"><img src="assets/42-black.svg" height="14" alt="42"></picture> Barcelona (2024–2026): project-based, peer-to-peer training in C and C++, from rebuilding the C standard library to a full-stack web application.
+- 🎓 Completed the <img src="assets/42-tile.svg" height="16" alt="42"> **Common Core** at <img src="assets/42-tile.svg" height="16" alt="42"> Barcelona (2024–2026): project-based, peer-to-peer training in C and C++, from rebuilding the C standard library to a full-stack web application.
 - 💻 I've built projects in **C, C++, JavaScript and TypeScript**, using **Git** and **Docker** along the way, and I move between **Linux, macOS and Windows** depending on where I'm working.
 - 🌐 Worked as a temporary **IT technician** at the **Mobile World Congress 2026**, setting up and monitoring the Ethernet and Wi-Fi network and detecting rogue access points.
 - 🗣️ Spanish and Valencian (native), English (B2, IELTS 6.5), after two years living and working in Canada.
@@ -31,7 +31,7 @@
 ## 🚀 Highlighted projects
 
 <p align="center">
-  <a href="https://github.com/petandk/42CommonCore"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=petandk&repo=42CommonCore&theme=tokyonight&hide_border=true" alt="42CommonCore"></a>
+  <a href="https://github.com/petandk/42CommonCore"><img width="49%" src="assets/42CommonCore-card.svg" alt="42 CommonCore"></a>
   <a href="https://github.com/petandk/ft_transcendence"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=petandk&repo=ft_transcendence&theme=tokyonight&hide_border=true" alt="ft_transcendence"></a>
   <a href="https://github.com/petandk/webserv"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=petandk&repo=webserv&theme=tokyonight&hide_border=true" alt="webserv"></a>
   <a href="https://github.com/petandk/minishell"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=petandk&repo=minishell&theme=tokyonight&hide_border=true" alt="minishell"></a>
@@ -69,7 +69,7 @@
 ## 🍎 Sobre mí
 
 - 📍 Vivo en **Barcelona**.
-- 🎓 He completado el **Common Core de** <picture><source media="(prefers-color-scheme: dark)" srcset="assets/42-white.svg"><img src="assets/42-black.svg" height="14" alt="42"></picture> en <picture><source media="(prefers-color-scheme: dark)" srcset="assets/42-white.svg"><img src="assets/42-black.svg" height="14" alt="42"></picture> Barcelona (2024–2026): formación basada en proyectos y aprendizaje entre iguales en C y C++, desde reimplementar la librería estándar de C hasta una aplicación web full-stack.
+- 🎓 He completado el **Common Core de** <img src="assets/42-tile.svg" height="16" alt="42"> en <img src="assets/42-tile.svg" height="16" alt="42"> Barcelona (2024–2026): formación basada en proyectos y aprendizaje entre iguales en C y C++, desde reimplementar la librería estándar de C hasta una aplicación web full-stack.
 - 💻 He desarrollado proyectos en **C, C++, JavaScript y TypeScript**, usando **Git** y **Docker**, y me muevo entre **Linux, macOS y Windows** según dónde esté trabajando.
 - 🌐 He trabajado como **técnico IT** temporal en el **Mobile World Congress 2026**, montando y supervisando la red Ethernet y Wi-Fi y detectando puntos de acceso no autorizados.
 - 🗣️ Español y valenciano (nativo), inglés (B2, IELTS 6,5), tras dos años viviendo y trabajando en Canadá.
@@ -78,7 +78,7 @@
 
 | Proyecto | Descripción |
 |---|---|
-| 🗂️ [**42CommonCore**](https://github.com/petandk/42CommonCore) | El índice de todos mis proyectos del Common Core de <picture><source media="(prefers-color-scheme: dark)" srcset="assets/42-white.svg"><img src="assets/42-black.svg" height="14" alt="42"></picture>, desde libft hasta ft_transcendence. |
+| 🗂️ [<img src="assets/42-tile.svg" height="16" alt="42"> **CommonCore**](https://github.com/petandk/42CommonCore) | El índice de todos mis proyectos del Common Core de <img src="assets/42-tile.svg" height="16" alt="42">, desde libft hasta ft_transcendence. |
 | 🏓 [**ft_transcendence**](https://github.com/petandk/ft_transcendence) | Plataforma de Pong multijugador en tiempo real (Next.js, NestJS, PostgreSQL, Docker). En equipo: me encargué de parte del frontend y del acceso externo (DNS y túnel de Cloudflare). |
 | 🌐 [**webserv**](https://github.com/petandk/webserv) | Servidor HTTP/1.1 en C++ con configuración estilo Nginx, ficheros estáticos, subidas y CGI. En equipo. |
 | 🐚 [**minishell**](https://github.com/petandk/minishell) | Un intérprete de comandos tipo bash en C, con pipes, redirecciones, heredocs, variables de entorno y señales. En equipo. |
