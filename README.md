@@ -24,8 +24,26 @@
 ## 🛠️ Tech stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,ts,js,py,php,bash,powershell,html,css,react,nextjs&perline=12" alt="Languages and web"><br>
-  <img src="https://skillicons.dev/icons?i=linux,docker,git,vim,vscode,apple,windows&perline=7" alt="Systems and tools">
+  <img src="assets/stack/c.svg" width="48" alt="C" title="C">
+  <img src="assets/stack/cpp.svg" width="48" alt="C++" title="C++">
+  <img src="assets/stack/typescript.svg" width="48" alt="TypeScript" title="TypeScript">
+  <img src="assets/stack/javascript.svg" width="48" alt="JavaScript" title="JavaScript">
+  <img src="assets/stack/python.svg" width="48" alt="Python" title="Python">
+  <img src="assets/stack/php.svg" width="48" alt="PHP" title="PHP">
+  <img src="assets/stack/bash.svg" width="48" alt="Bash" title="Bash">
+  <img src="assets/stack/powershell.svg" width="48" alt="PowerShell" title="PowerShell">
+  <img src="assets/stack/html.svg" width="48" alt="HTML5" title="HTML5">
+  <img src="assets/stack/css.svg" width="48" alt="CSS" title="CSS">
+  <img src="assets/stack/react.svg" width="48" alt="React" title="React">
+  <img src="assets/stack/nextjs.svg" width="48" alt="Next.js" title="Next.js">
+  <br>
+  <img src="assets/stack/linux.svg" width="48" alt="Linux" title="Linux">
+  <img src="assets/stack/docker.svg" width="48" alt="Docker" title="Docker">
+  <img src="assets/stack/git.svg" width="48" alt="Git" title="Git">
+  <img src="assets/stack/vim.svg" width="48" alt="Vim" title="Vim">
+  <img src="assets/stack/vscode.svg" width="48" alt="VS Code" title="VS Code">
+  <img src="assets/stack/macos.svg" width="48" alt="macOS" title="macOS">
+  <img src="assets/stack/windows.svg" width="48" alt="Windows" title="Windows">
 </p>
 
 ## 🚀 Highlighted projects
