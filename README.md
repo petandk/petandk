@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f5132,100:2ea44f&height=190&section=header&text=Hi%2C%20I%27m%20Ra%C3%BAl%20%F0%9F%8D%8E&fontSize=50&fontColor=ffffff&fontAlignY=36&desc=Software%20developer%20%C2%B7%2042%20Barcelona&descSize=18&descAlignY=58" alt="Hi, I'm Raúl">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f5132,100:2ea44f&height=190&section=header&text=Hi%2C%20I%27m%20Ra%C3%BAl%20%F0%9F%8D%8E&fontSize=50&fontColor=ffffff&fontAlignY=36&desc=Software%20developer%20%C2%B7%20Barcelona&descSize=18&descAlignY=58" alt="Hi, I'm Raúl">
 
 <p align="center">
   <a href="https://github.com/petandk">
