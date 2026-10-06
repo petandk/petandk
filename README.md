@@ -49,12 +49,12 @@
 ## 🚀 Highlighted projects
 
 <p align="center">
-  <a href="https://github.com/petandk/42CommonCore"><img width="49%" src="assets/42CommonCore-card.svg" alt="42 CommonCore"></a>
-  <a href="https://github.com/petandk/ft_transcendence"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=petandk&repo=ft_transcendence&theme=tokyonight&hide_border=true" alt="ft_transcendence"></a>
-  <a href="https://github.com/petandk/webserv"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=petandk&repo=webserv&theme=tokyonight&hide_border=true" alt="webserv"></a>
-  <a href="https://github.com/petandk/minishell"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=petandk&repo=minishell&theme=tokyonight&hide_border=true" alt="minishell"></a>
-  <a href="https://github.com/petandk/cub3d"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=petandk&repo=cub3d&theme=tokyonight&hide_border=true" alt="cub3d"></a>
-  <a href="https://github.com/petandk/inception"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=petandk&repo=inception&theme=tokyonight&hide_border=true" alt="inception"></a>
+  <a href="https://github.com/petandk/42CommonCore"><img width="49%" src="assets/cards/42CommonCore.svg" alt="42 CommonCore"></a>
+  <a href="https://github.com/petandk/ft_transcendence"><img width="49%" src="assets/cards/ft_transcendence.svg" alt="ft_transcendence"></a>
+  <a href="https://github.com/petandk/webserv"><img width="49%" src="assets/cards/webserv.svg" alt="webserv"></a>
+  <a href="https://github.com/petandk/minishell"><img width="49%" src="assets/cards/minishell.svg" alt="minishell"></a>
+  <a href="https://github.com/petandk/cub3d"><img width="49%" src="assets/cards/cub3d.svg" alt="cub3d"></a>
+  <a href="https://github.com/petandk/inception"><img width="49%" src="assets/cards/inception.svg" alt="inception"></a>
 </p>
 
 <p align="center"><sub>ft_transcendence, webserv, minishell and cub3d were team projects. On ft_transcendence I worked on the frontend and the external access (DNS and Cloudflare Tunnel).</sub></p>
