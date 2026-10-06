@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Raúl 👋</h1>
+<h1 align="center">Hi, I'm Raúl 🍎</h1>
 <h3 align="center">Software developer · 42 Barcelona Common Core graduate</h3>
 
 <p align="center">
