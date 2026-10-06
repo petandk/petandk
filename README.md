@@ -85,9 +85,6 @@
 | 🧱 [**cub3d**](https://github.com/petandk/cub3d) | Un motor de raycasting estilo Wolfenstein 3D en C, con texturas, minimapa y control con ratón. En equipo. |
 | 🐳 [**inception**](https://github.com/petandk/inception) | Una infraestructura WordPress + MariaDB + NGINX construida desde cero con Docker Compose. |
 
-## 📬 Contacto
-
-🌐 [rmanzanas.com](https://rmanzanas.com) · 💼 [LinkedIn](https://www.linkedin.com/in/raulmanzanastrillo/) · ✉️ [raul@rmanzanas.com](mailto:raul@rmanzanas.com)
 
 </details>
 
