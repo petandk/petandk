@@ -24,7 +24,7 @@
 ## 🛠️ Tech stack
 
 <p align="center">
-  <img src="assets/stack/c.svg" width="48" alt="C" title="C">
+  <img src="assets/stack/c.svg?v=3" width="48" alt="C" title="C">
   <img src="assets/stack/cpp.svg" width="48" alt="C++" title="C++">
   <img src="assets/stack/typescript.svg" width="48" alt="TypeScript" title="TypeScript">
   <img src="assets/stack/javascript.svg" width="48" alt="JavaScript" title="JavaScript">
