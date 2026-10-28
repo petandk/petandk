@@ -19,7 +19,7 @@
 - 🎓 Completed the <img src="assets/42-tile.svg" height="16" alt="42"> **Common Core** at <img src="assets/42-tile.svg" height="16" alt="42"> Barcelona (2024–2026): project-based, peer-to-peer training in C and C++, from rebuilding the C standard library to a full-stack web application.
 - 💻 I've built projects in **C, C++, JavaScript and TypeScript**, using **Git** and **Docker** along the way, and I move between **Linux, macOS and Windows** depending on where I'm working.
 - 🌐 Worked as a temporary **IT technician** at the **Mobile World Congress 2026**, setting up and monitoring the Ethernet and Wi-Fi network and detecting rogue access points.
-- 🗣️ Spanish and Valencian (native), English (B2, IELTS 6.5), after two years living and working in Canada.
+- 🗣️ Spanish and Valencian (native), English (C1), after two years living and working in Canada.
 
 ## 🛠️ Tech stack
 
@@ -90,7 +90,7 @@
 - 🎓 He completado el **Common Core de** <img src="assets/42-tile.svg" height="16" alt="42"> en <img src="assets/42-tile.svg" height="16" alt="42"> Barcelona (2024–2026): formación basada en proyectos y aprendizaje entre iguales en C y C++, desde reimplementar la librería estándar de C hasta una aplicación web full-stack.
 - 💻 He desarrollado proyectos en **C, C++, JavaScript y TypeScript**, usando **Git** y **Docker**, y me muevo entre **Linux, macOS y Windows** según dónde esté trabajando.
 - 🌐 He trabajado como **técnico IT** temporal en el **Mobile World Congress 2026**, montando y supervisando la red Ethernet y Wi-Fi y detectando puntos de acceso no autorizados.
-- 🗣️ Español y valenciano (nativo), inglés (B2, IELTS 6,5), tras dos años viviendo y trabajando en Canadá.
+- 🗣️ Español y valenciano (nativo), inglés (C1), tras dos años viviendo y trabajando en Canadá.
 
 ## 🚀 Proyectos destacados
 
