@@ -10,17 +10,17 @@
   <text x="25" y="38" class="header">Most Used Languages</text>
   <mask id="bar"><rect x="25" y="0" width="350" height="8" rx="4" fill="white" /></mask>
   <g transform="translate(0, 60)" mask="url(#bar)">
-    <rect x="25.00" y="0" width="111.09" height="8" fill="#555555" />
-    <rect x="136.09" y="0" width="94.25" height="8" fill="#f34b7d" />
-    <rect x="230.34" y="0" width="69.12" height="8" fill="#3178c6" />
-    <rect x="299.46" y="0" width="33.24" height="8" fill="#3572A5" />
-    <rect x="332.70" y="0" width="22.47" height="8" fill="#89e051" />
-    <rect x="355.16" y="0" width="19.84" height="8" fill="#427819" />
+    <rect x="25.00" y="0" width="110.60" height="8" fill="#555555" />
+    <rect x="135.60" y="0" width="93.83" height="8" fill="#f34b7d" />
+    <rect x="229.43" y="0" width="68.81" height="8" fill="#3178c6" />
+    <rect x="298.24" y="0" width="34.64" height="8" fill="#3572A5" />
+    <rect x="332.88" y="0" width="22.37" height="8" fill="#89e051" />
+    <rect x="355.25" y="0" width="19.75" height="8" fill="#427819" />
   </g>
-  <g transform="translate(25, 100)"><circle cx="5" cy="-5" r="5" fill="#555555" /><text x="17" class="lang">C 31.74%</text></g>
-  <g transform="translate(200, 100)"><circle cx="5" cy="-5" r="5" fill="#f34b7d" /><text x="17" class="lang">C++ 26.93%</text></g>
-  <g transform="translate(25, 128)"><circle cx="5" cy="-5" r="5" fill="#3178c6" /><text x="17" class="lang">TypeScript 19.75%</text></g>
-  <g transform="translate(200, 128)"><circle cx="5" cy="-5" r="5" fill="#3572A5" /><text x="17" class="lang">Python 9.50%</text></g>
-  <g transform="translate(25, 156)"><circle cx="5" cy="-5" r="5" fill="#89e051" /><text x="17" class="lang">Shell 6.42%</text></g>
-  <g transform="translate(200, 156)"><circle cx="5" cy="-5" r="5" fill="#427819" /><text x="17" class="lang">Makefile 5.67%</text></g>
+  <g transform="translate(25, 100)"><circle cx="5" cy="-5" r="5" fill="#555555" /><text x="17" class="lang">C 31.60%</text></g>
+  <g transform="translate(200, 100)"><circle cx="5" cy="-5" r="5" fill="#f34b7d" /><text x="17" class="lang">C++ 26.81%</text></g>
+  <g transform="translate(25, 128)"><circle cx="5" cy="-5" r="5" fill="#3178c6" /><text x="17" class="lang">TypeScript 19.66%</text></g>
+  <g transform="translate(200, 128)"><circle cx="5" cy="-5" r="5" fill="#3572A5" /><text x="17" class="lang">Python 9.90%</text></g>
+  <g transform="translate(25, 156)"><circle cx="5" cy="-5" r="5" fill="#89e051" /><text x="17" class="lang">Shell 6.39%</text></g>
+  <g transform="translate(200, 156)"><circle cx="5" cy="-5" r="5" fill="#427819" /><text x="17" class="lang">Makefile 5.64%</text></g>
 </svg>
