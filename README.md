@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f5132,100:2ea44f&height=190&section=header&text=Hi%2C%20I%27m%20Ra%C3%BAl%20%F0%9F%8D%8E&fontSize=50&fontColor=ffffff&fontAlignY=36&desc=Software%20developer%20%C2%B7%20Barcelona&descSize=18&descAlignY=58" alt="Hi, I'm Raúl">
+<img width="100%" src="assets/header.svg" alt="Hi, I'm Raúl">
 
 <p align="center">
   <a href="https://github.com/petandk">
@@ -52,7 +52,7 @@
   <a href="https://github.com/petandk/42CommonCore"><img width="49%" src="assets/cards/42CommonCore.svg" alt="42 CommonCore"></a>
   <a href="https://github.com/petandk/ft_transcendence"><img width="49%" src="assets/cards/ft_transcendence.svg" alt="ft_transcendence"></a>
   <a href="https://github.com/petandk/webserv"><img width="49%" src="assets/cards/webserv.svg" alt="webserv"></a>
-  <a href="https://github.com/petandk/minishell"><img width="49%" src="assets/cards/minishell.svg" alt="minishell"></a>
+  <a href="https://github.com/petandk/Guinyote"><img width="49%" src="assets/cards/Guinyote.svg" alt="Guinyote"></a>
   <a href="https://github.com/petandk/cub3d"><img width="49%" src="assets/cards/cub3d.svg" alt="cub3d"></a>
   <a href="https://github.com/petandk/inception"><img width="49%" src="assets/cards/inception.svg" alt="inception"></a>
 </p>
@@ -62,8 +62,8 @@
 ## 📊 GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=petandk&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true" alt="GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=petandk&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages">
+  <img height="190" src="assets/stats/stats.svg" alt="GitHub stats">
+  <img height="190" src="assets/stats/top-langs.svg" alt="Top languages">
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=petandk&theme=tokyonight&hide_border=true" alt="GitHub streak">
@@ -106,6 +106,6 @@
 
 </details>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f5132,100:2ea44f&height=100&section=footer" alt="">
+<img width="100%" src="assets/footer.svg" alt="">
 
 <p align="center"><sub>This profile README was put together with the help of <a href="https://claude.com/claude-code">Claude</a>.</sub></p>

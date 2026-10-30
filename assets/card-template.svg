@@ -11,43 +11,51 @@
         <title id="titleId"></title>
         <desc id="descId"></desc>
         <style>
-          .header {
+          .header {{
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
             fill: #70a5fd;
             animation: fadeInAnimation 0.8s ease-in-out forwards;
-          }
-          @supports(-moz-appearance: auto) {
+          }}
+          @supports(-moz-appearance: auto) {{
             /* Selector detects Firefox */
-            .header { font-size: 15.5px; }
-          }
+            .header {{ font-size: 15.5px; }}
+          }}
           
-    .description { font: 400 13px 'Segoe UI', Ubuntu, Sans-Serif; fill: #38bdae }
-    .gray { font: 400 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: #38bdae }
-    .icon { fill: #bf91f3 }
-    .badge { font: 600 11px 'Segoe UI', Ubuntu, Sans-Serif; }
-    .badge rect { opacity: 0.2 }
+    .description {{ font: 400 13px 'Segoe UI', Ubuntu, Sans-Serif; fill: #38bdae }}
+    .gray {{ font: 400 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: #38bdae }}
+    .icon {{ fill: #bf91f3 }}
+    .badge {{ font: 600 11px 'Segoe UI', Ubuntu, Sans-Serif; }}
+    .badge rect {{ opacity: 0.2 }}
   
 
           
       /* Animations */
-      @keyframes scaleInAnimation {
-        from {
+      @keyframes scaleInAnimation {{
+        from {{
           transform: translate(-5px, 5px) scale(0);
-        }
-        to {
+        }}
+        to {{
           transform: translate(-5px, 5px) scale(1);
-        }
-      }
-      @keyframes fadeInAnimation {
-        from {
+        }}
+      }}
+      @keyframes fadeInAnimation {{
+        from {{
           opacity: 0;
-        }
-        to {
+        }}
+        to {{
           opacity: 1;
-        }
-      }
+        }}
+      }}
     
-          * { animation-duration: 0s !important; animation-delay: 0s !important; }
+          * {{ animation-duration: 0s !important; animation-delay: 0s !important; }}
+          /* On phones the README shows two cards per row, about 175px wide each,
+             so the card swaps to a layout with fewer, larger words */
+          .compact {{ display: none; }}
+          @media (max-width: 280px) {{
+            .full {{ display: none; }}
+            .compact {{ display: inline; }}
+          }}
+          .compact .description {{ font-size: 22px; }}
         </style>
 
         
@@ -64,8 +72,9 @@
           stroke-opacity="0"
         />
 
-        
+        <g class="full">
       <g
+        id="title"
         data-testid="card-title"
         transform="translate(25, 35)"
       >
@@ -87,7 +96,7 @@
         y="0"
         class="header"
         data-testid="header"
-      >minishell</text>
+      >{name}</text>
     </g>
       </g>
     
@@ -100,18 +109,17 @@
     
 
     <text class="description" x="25" y="-5">
-      <tspan dy="1.2em" x="25">No description provided</tspan>
+      {description}
     </text>
 
     <g transform="translate(30, 75)">
-      <g transform="translate(0, 0)">
-    <g data-testid="primary-lang">
-      <circle data-testid="lang-color" cx="0" cy="-5" r="6" fill="#555555" />
-      <text data-testid="lang-name" class="gray" x="15">C</text>
+{stats}
     </g>
-    </g>
-    </g>
-  
+
+        </g>
+        </g>
+        <g class="compact">
+{compact}
         </g>
       </svg>
     

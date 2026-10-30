@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
   push:
     branches: [main]
-    paths: [scripts/cards.py]
+    paths: [scripts/*.py, assets/card-template.svg]
 
 permissions:
   contents: write
@@ -21,12 +21,16 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Build equal-height cards
-        run: python scripts/cards.py
+      - name: Build project and stats cards
+        run: |
+          python scripts/cards.py
+          python scripts/stats.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit if changed
         run: |
-          git add assets/cards
+          git add assets/cards assets/stats
           if git diff --cached --quiet; then
             echo "No changes"
             exit 0

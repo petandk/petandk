@@ -48,6 +48,14 @@
       }
     
           * { animation-duration: 0s !important; animation-delay: 0s !important; }
+          /* On phones the README shows two cards per row, about 175px wide each,
+             so the card swaps to a layout with fewer, larger words */
+          .compact { display: none; }
+          @media (max-width: 280px) {
+            .full { display: none; }
+            .compact { display: inline; }
+          }
+          .compact .description { font-size: 22px; }
         </style>
 
         
@@ -64,8 +72,9 @@
           stroke-opacity="0"
         />
 
-        
+        <g class="full">
       <g
+        id="title"
         data-testid="card-title"
         transform="translate(25, 35)"
       >
@@ -111,7 +120,20 @@
     </g>
     </g>
     </g>
-  
+
+        </g>
+        </g>
+        <g class="compact">
+      <use href="#title" transform="translate(-15, -14) scale(1.6)" />
+      <text class="description" x="25" y="50"><tspan dy="1.2em" x="25">A Wolfenstein 3D-style</tspan><tspan dy="1.2em" x="25">raycaster with textured...</tspan></text>
+      <g transform="translate(30, 138) scale(1.8)">
+      <g transform="translate(0, 0)">
+    <g data-testid="primary-lang">
+      <circle data-testid="lang-color" cx="0" cy="-5" r="6" fill="#555555" />
+      <text data-testid="lang-name" class="gray" x="15">C</text>
+    </g>
+    </g>
+      </g>
         </g>
       </svg>
     
