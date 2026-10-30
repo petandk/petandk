@@ -57,7 +57,7 @@
   <a href="https://github.com/petandk/inception"><img width="49%" src="assets/cards/inception.svg" alt="inception"></a>
 </p>
 
-<p align="center"><sub>ft_transcendence, webserv, minishell and cub3d were team projects. On ft_transcendence I worked on the frontend and the external access (DNS and Cloudflare Tunnel).</sub></p>
+<p align="center"><sub>ft_transcendence, webserv and cub3d were team projects. On ft_transcendence I worked on the frontend and the external access (DNS and Cloudflare Tunnel).</sub></p>
 
 ## 📊 GitHub stats
 
@@ -99,7 +99,7 @@
 | 🗂️ [<img src="assets/42-tile.svg" height="16" alt="42"> **CommonCore**](https://github.com/petandk/42CommonCore) | El índice de todos mis proyectos del Common Core de <img src="assets/42-tile.svg" height="16" alt="42">, desde libft hasta ft_transcendence. |
 | 🏓 [**ft_transcendence**](https://github.com/petandk/ft_transcendence) | Plataforma de Pong multijugador en tiempo real (Next.js, NestJS, PostgreSQL, Docker). En equipo: me encargué de parte del frontend y del acceso externo (DNS y túnel de Cloudflare). |
 | 🌐 [**webserv**](https://github.com/petandk/webserv) | Servidor HTTP/1.1 en C++ con configuración estilo Nginx, ficheros estáticos, subidas y CGI. En equipo. |
-| 🐚 [**minishell**](https://github.com/petandk/minishell) | Un intérprete de comandos tipo bash en C, con pipes, redirecciones, heredocs, variables de entorno y señales. En equipo. |
+| 🃏 [**Guinyote**](https://github.com/petandk/Guinyote) | Un intento de crear una versión web del guiñote, un juego de cartas español, con HTML, CSS y JavaScript. |
 | 🧱 [**cub3d**](https://github.com/petandk/cub3d) | Un motor de raycasting estilo Wolfenstein 3D en C, con texturas, minimapa y control con ratón. En equipo. |
 | 🐳 [**inception**](https://github.com/petandk/inception) | Una infraestructura WordPress + MariaDB + NGINX construida desde cero con Docker Compose. |
 
