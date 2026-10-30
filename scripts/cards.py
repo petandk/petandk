@@ -15,6 +15,15 @@ from xml.sax.saxutils import escape
 
 from github_api import USER, graphql
 
+# Colors of every card, project and stats cards alike (tokyonight theme).
+# Language dots use GitHub's own language colors, so they aren't here.
+COLORS = {
+    "background": "#1a1b27",
+    "title_color": "#70a5fd",
+    "text_color": "#38bdae",
+    "icon_color": "#bf91f3",
+}
+
 DESCRIPTION_WIDTH = 59  # characters per line, as github-readme-stats wraps them
 DESCRIPTION_LINES = 3   # three lines is what fits in the 150px card
 # Compact layout, shown when the card is drawn under 280px wide (phones)
@@ -126,6 +135,7 @@ def render(repo):
         description=description_tspans(repo["description"]),
         stats=stats,
         compact=compact_layout(repo, stats),
+        **COLORS,
     )
 
 

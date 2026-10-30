@@ -7,7 +7,7 @@ repositories count, as before. Run daily by .github/workflows/cards.yml.
 from pathlib import Path
 from xml.sax.saxutils import escape
 
-from cards import STAR_ICON
+from cards import COLORS, STAR_ICON
 from github_api import USER, graphql
 
 WIDTH, HEIGHT = 400, 190
@@ -44,12 +44,12 @@ REPO_ICON = ("M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.
 CARD = """<svg width="{w}" height="{h}" viewBox="0 0 {w} {h}" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="titleId">
   <title id="titleId">{title}</title>
   <style>
-    .header {{ font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif; fill: #70a5fd; }}
-    .stat {{ font: 600 14px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif; fill: #38bdae; }}
-    .lang {{ font: 400 13px 'Segoe UI', Ubuntu, Sans-Serif; fill: #38bdae; }}
-    .icon {{ fill: #bf91f3; }}
+    .header {{ font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif; fill: {title_color}; }}
+    .stat {{ font: 600 14px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif; fill: {text_color}; }}
+    .lang {{ font: 400 13px 'Segoe UI', Ubuntu, Sans-Serif; fill: {text_color}; }}
+    .icon {{ fill: {icon_color}; }}
   </style>
-  <rect x="0.5" y="0.5" rx="4.5" width="{w1}" height="{h1}" fill="#1a1b27" />
+  <rect x="0.5" y="0.5" rx="4.5" width="{w1}" height="{h1}" fill="{background}" />
   <text x="25" y="38" class="header">{title}</text>
 {body}
 </svg>
@@ -57,7 +57,8 @@ CARD = """<svg width="{w}" height="{h}" viewBox="0 0 {w} {h}" fill="none" xmlns=
 
 
 def card(title, body):
-    return CARD.format(w=WIDTH, h=HEIGHT, w1=WIDTH - 1, h1=HEIGHT - 1, title=escape(title), body=body)
+    return CARD.format(w=WIDTH, h=HEIGHT, w1=WIDTH - 1, h1=HEIGHT - 1, title=escape(title), body=body,
+                       **COLORS)
 
 
 def stats_card(user):

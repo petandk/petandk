@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
   push:
     branches: [main]
-    paths: [scripts/*.py, assets/card-template.svg]
+    paths: [README.md, scripts/*.py, assets/card-template.svg]
 
 permissions:
   contents: write
